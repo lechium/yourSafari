@@ -13,6 +13,11 @@ Usage:
 
 If you are on a youtube video page, press the new "Open video on AppleTV" button, if all the requirements are met, the video will start playing automatically on your AppleTV!
 
+Installation:
+
+download: https://github.com/lechium/yourSafari/raw/master/ytTV.safariextz
+open it & trust
+
 Future Plans:
 
 Make it possible to customize the address of the AppleTV.
