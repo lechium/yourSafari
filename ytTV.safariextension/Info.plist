@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Kevin Bradley</string>
+	<key>Builder Version</key>
+	<string>10601.2.7.2</string>
+	<key>CFBundleDisplayName</key>
+	<string>ytTV</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.firecore.yttv</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Global Page</key>
+		<string>background.html</string>
+		<key>Toolbar Items</key>
+		<array>
+			<dict>
+				<key>Command</key>
+				<string>playyt</string>
+				<key>Identifier</key>
+				<string>playyt</string>
+				<key>Image</key>
+				<string>safari icon.png</string>
+				<key>Include By Default</key>
+				<true/>
+				<key>Label</key>
+				<string>Open video on AppleTV</string>
+				<key>Palette Label</key>
+				<string>Open video on AppleTV</string>
+				<key>Tool Tip</key>
+				<string>Open video on AppleTV</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>play youtube videos directly on your jailbroken AppleTV 2</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
